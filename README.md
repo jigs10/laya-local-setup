@@ -2,6 +2,9 @@
 
 Commands and examples used in my video for running **Laya locally**, testing it with different scenarios, and comparing it with Jev.
 
+**Video:** https://youtu.be/0ldz0pjDQB0
+**Laya Repository:** https://github.com/NandhaKishorM/laya
+
 ## 1. Clone the Repository
 
 ```bash
